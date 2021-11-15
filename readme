@@ -1,4 +1,0 @@
-Create DB Server and output the private IP
-Create a web server and ensure it has fixed public IP
-Create a security group for the web server opening ports 80 and 443 (HTTP and HTTPS)
-Run the script (server-script.sh) on the web server.
